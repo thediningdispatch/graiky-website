@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GRAIKY — Sandwicherie africaine · Paris 12</title>
+  <meta name="description" content="GRAIKY, sandwicherie africaine au 12 rue de Madagascar, Paris 12. Sandwichs kebab, bowls attiéké, allocos, bissap et dégué maison." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ============ NAV ============ -->
+  <header class="nav" id="nav">
+    <div class="nav__inner">
+      <a href="#hero" class="nav__logo">
+        <!-- TODO: remplacer par logo Graiky -->
+        <span class="nav__logo-mark">G</span>
+        <span class="nav__logo-text">GRAIKY</span>
+      </a>
+      <nav class="nav__links">
+        <a href="#hero">Home</a>
+        <a href="#concept">Concept</a>
+        <a href="#menu">Menu</a>
+        <a href="#restos">Restaurants</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <button class="nav__burger" aria-label="Menu" id="burger">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero" id="hero">
+    <div class="hero__bg"></div>
+    <div class="hero__overlay"></div>
+    <div class="hero__content">
+      <p class="hero__eyebrow">PARIS 12e · 12 RUE DE MADAGASCAR</p>
+      <h1 class="hero__title">
+        <span>SANDWICHS,</span>
+        <span>BOWLS,</span>
+        <span class="hero__title--accent">À L'AFRICAINE.</span>
+      </h1>
+      <p class="hero__subtitle">Sandwicherie kebab revisitée façon Afrique de l'Ouest. Attiéké, allocos, bissap, dégué maison. Sur place, à emporter, en livraison.</p>
+      <div class="hero__cta">
+        <a href="#menu" class="btn btn--primary">Voir le menu</a>
+        <a href="#restos" class="btn btn--ghost">Nous trouver</a>
+      </div>
+    </div>
+    <div class="hero__scroll">SCROLL ↓</div>
+  </section>
+
+  <!-- ============ CONCEPT ============ -->
+  <section class="concept" id="concept">
+    <div class="concept__grid">
+      <div class="concept__text">
+        <p class="section__eyebrow">/ LE CONCEPT</p>
+        <h2 class="section__title">Le kebab,<br/>vu d'Afrique.</h2>
+        <p class="concept__body">
+          GRAIKY, c'est une sandwicherie kebab avec la touche Afrique de l'Ouest qui change tout. Sandwichs grillés rehaussés d'allocos, bowls à base d'attiéké ou de salades, bissap et gingembre maison, dégué pour finir en douceur. Une cuisine familiale, généreuse, posée dans le 12e arrondissement.
+        </p>
+        <a href="#menu" class="link-arrow">Voir la carte →</a>
+      </div>
+      <div class="concept__visual">
+        <!-- TODO: remplacer par photo signature Graiky -->
+        <div class="concept__photo" style="background-image: url('https://images.unsplash.com/photo-1561651823-34feb02250e4?w=1200&q=80')"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MARQUEE TYPO ============ -->
+  <section class="marquee" aria-hidden="true">
+    <div class="marquee__track">
+      <span>KEBAB</span><span>·</span>
+      <span>KEBAB</span><span>·</span>
+      <span>KEBAB</span><span>·</span>
+      <span>KEBAB</span><span>·</span>
+      <span>KEBAB</span><span>·</span>
+      <span>KEBAB</span><span>·</span>
+    </div>
+  </section>
+
+  <!-- ============ CRÉATION DU MOMENT ============ -->
+  <section class="hero-product">
+    <div class="hero-product__inner">
+      <div class="hero-product__image">
+        <!-- TODO: photo signature du mois -->
+        <img src="https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=1000&q=80" alt="Création du moment" />
+      </div>
+      <div class="hero-product__text">
+        <p class="section__eyebrow">/ SIGNATURE MAISON</p>
+        <h2 class="hero-product__title">SANDWICH BKO</h2>
+        <p class="hero-product__tag">Best-seller</p>
+        <p class="hero-product__desc">
+          Le sandwich qui a tout lancé. Viande grillée, allocos, sauce maison, crudités fraîches. Hommage à Bamako, servi avec la générosité qui va avec.
+        </p>
+        <a href="#menu" class="link-arrow">Voir tout le menu →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ MENU ============ -->
+  <section class="menu" id="menu">
+    <div class="menu__header">
+      <p class="section__eyebrow">/ NOTRE CARTE</p>
+      <h2 class="section__title">MENU</h2>
+    </div>
+
+    <div class="menu__tabs">
+      <button class="menu__tab is-active" data-tab="kebabs">Sandwichs</button>
+      <button class="menu__tab" data-tab="bowls">Bowls</button>
+      <button class="menu__tab" data-tab="enfant">Dips</button>
+      <button class="menu__tab" data-tab="extra">Extras &amp; Pastels</button>
+      <button class="menu__tab" data-tab="desserts">Boissons &amp; Dégué</button>
+    </div>
+
+    <!-- SANDWICHS -->
+    <div class="menu__panel is-active" data-panel="kebabs">
+      <div class="menu__grid">
+
+        <article class="card">
+          <span class="card__badge card__badge--signature">SIGNATURE</span>
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">SANDWICH BKO</h3>
+            <p class="card__desc">Viande grillée, allocos, sauce maison, crudités. L'original Graiky.</p>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">GRAIKY FUN</h3>
+            <p class="card__desc">Notre sandwich gourmand généreux, sauces &amp; toppings maison.</p>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">SANDWICH CLASSIC</h3>
+            <p class="card__desc">Kebab grillé, sauce blanche maison, salade, tomates, oignons.</p>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1633321702518-7feccafb94d5?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">SANDWICH VEGGIE</h3>
+            <p class="card__desc">Option végétarienne, sauce maison, crudités, allocos en option.</p>
+          </div>
+        </article>
+
+      </div>
+      <p class="menu__note">À compléter avec le menu PDF fourni par le client — disponible sur graiky.eatbu.com.</p>
+    </div>
+
+    <!-- BOWLS -->
+    <div class="menu__panel" data-panel="bowls">
+      <div class="menu__grid">
+        <article class="card">
+          <span class="card__badge card__badge--signature">SIGNATURE</span>
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">BOWL BKO</h3>
+            <p class="card__desc">Base attiéké, viande grillée, allocos, sauce maison, crudités.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">BOWL ATTIÉKÉ</h3>
+            <p class="card__desc">Base attiéké, viande grillée, salade, sauce maison.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">BOWL SALADE</h3>
+            <p class="card__desc">Base salade, viande grillée, allocos, crudités, sauce maison.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+
+    <!-- DIPS -->
+    <div class="menu__panel" data-panel="enfant">
+      <div class="menu__grid">
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1626082896492-766af4eb6501?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">DIPS MAISON</h3>
+            <p class="card__desc">Sélection de sauces maison à tremper. Goûts au choix.</p>
+          </div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1562967914-608f82629710?w=800&q=80')"></div>
+          <div class="card__body">
+            <h3 class="card__name">DIPS BOX</h3>
+            <p class="card__desc">Plateau de plusieurs dips à partager.</p>
+          </div>
+        </article>
+      </div>
+      <p class="menu__note">Catégorie à préciser avec le menu PDF du client.</p>
+    </div>
+
+    <!-- EXTRAS & PASTELS -->
+    <div class="menu__panel" data-panel="extra">
+      <div class="menu__grid">
+        <article class="card">
+          <span class="card__badge card__badge--new">À TESTER</span>
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">PASTELS</h3><p class="card__desc">Beignets fourrés à la viande ou au poisson. Snack typiquement ouest-africain.</p></div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">FRITES MAISON</h3><p class="card__desc">Frites fraîches, sauces maison.</p></div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">ALLOCOS</h3><p class="card__desc">Bananes plantains frites, croustillantes dehors, fondantes dedans.</p></div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">WINGS</h3><p class="card__desc">Ailes de poulet marinées.</p></div>
+        </article>
+      </div>
+    </div>
+
+    <!-- BOISSONS & DÉGUÉ -->
+    <div class="menu__panel" data-panel="desserts">
+      <div class="menu__grid">
+        <article class="card">
+          <span class="card__badge card__badge--signature">SIGNATURE</span>
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">BISSAP MAISON</h3><p class="card__desc">Infusion d'hibiscus, frais et désaltérant.</p></div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1437418747212-8d9709afab22?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">JUS DE GINGEMBRE</h3><p class="card__desc">Recette maison, gingembre frais et citron. Ça réveille.</p></div>
+        </article>
+        <article class="card">
+          <span class="card__badge card__badge--signature">SIGNATURE</span>
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">DÉGUÉ / THIAKRY</h3><p class="card__desc">Mil, yaourt, vanille, fruits frais. Le dessert qui finit tout.</p></div>
+        </article>
+        <article class="card">
+          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&q=80')"></div>
+          <div class="card__body"><h3 class="card__name">SOFTS</h3><p class="card__desc">Sélection de softs et boissons fraîches.</p></div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ BASES / FONDAMENTAUX ============ -->
+  <section class="breads">
+    <div class="breads__header">
+      <p class="section__eyebrow">/ NOS FONDAMENTAUX</p>
+      <h2 class="section__title">Maison,<br/>du début à la fin.</h2>
+      <p class="breads__sub">Allocos, attiéké, bissap, dégué : les bases d'une vraie sandwicherie ouest-africaine.</p>
+    </div>
+    <div class="breads__grid">
+      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1612200143444-9f17a26c0c5e?w=800&q=80')"></div><p>Allocos</p></div>
+      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80')"></div><p>Attiéké</p></div>
+      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80')"></div><p>Bissap</p></div>
+      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&q=80')"></div><p>Dégué</p></div>
+    </div>
+  </section>
+
+  <!-- ============ PRESSE / SOCIAL PROOF ============ -->
+  <section class="press">
+    <div class="press__inner">
+      <p class="section__eyebrow">/ ON EN PARLE</p>
+      <h2 class="section__title">Vu &amp; approuvé</h2>
+      <div class="press__logos">
+        <!-- TODO: remplacer par vrais logos presse -->
+        <span class="press__logo">LE FOODING</span>
+        <span class="press__logo">TIME OUT</span>
+        <span class="press__logo">PARIS BOUFFE</span>
+        <span class="press__logo">VICE FOOD</span>
+        <span class="press__logo">FRANCE 3</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ INSTAGRAM ============ -->
+  <section class="ig" id="ig">
+    <div class="ig__header">
+      <p class="section__eyebrow">/ COMMUNAUTÉ</p>
+      <h2 class="section__title">@GRAIKYPARIS</h2>
+      <p class="ig__followers">Suivez-nous sur Instagram &amp; TikTok</p>
+    </div>
+    <div class="ig__grid">
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1633321702518-7feccafb94d5?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1606755962773-d324e2dabd91?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600&q=80')"></a>
+    </div>
+  </section>
+
+  <!-- ============ RESTAURANTS ============ -->
+  <section class="restos" id="restos">
+    <div class="restos__inner">
+      <p class="section__eyebrow">/ NOUS TROUVER</p>
+      <h2 class="section__title">Le resto</h2>
+      <div class="restos__list">
+        <a href="https://www.google.com/maps/search/?api=1&query=12+rue+de+Madagascar+75012+Paris" class="resto" target="_blank" rel="noopener">
+          <h3>PARIS 12e</h3>
+          <p>12 rue de Madagascar</p>
+          <p>75012 Paris</p>
+          <p style="margin-top:14px; opacity:.6;">Horaires à confirmer</p>
+          <span class="resto__link">Itinéraire →</span>
+        </a>
+        <a href="tel:+33983771739" class="resto">
+          <h3>RÉSERVER</h3>
+          <p>Par téléphone</p>
+          <p>+33 9 83 77 17 39</p>
+          <p style="margin-top:14px; opacity:.6;">Sur place · à emporter · livraison</p>
+          <span class="resto__link">Appeler →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="footer" id="contact">
+    <div class="footer__inner">
+      <div class="footer__brand">
+        <span class="footer__logo">GRAIKY</span>
+        <p>Sandwicherie africaine<br/>12 rue de Madagascar<br/>75012 Paris</p>
+      </div>
+      <div class="footer__col">
+        <h4>Contact</h4>
+        <a href="tel:+33983771739">+33 9 83 77 17 39</a>
+        <a href="https://www.google.com/maps/search/?api=1&query=12+rue+de+Madagascar+75012+Paris" target="_blank" rel="noopener">Itinéraire Google Maps</a>
+      </div>
+      <div class="footer__col">
+        <h4>Réseaux</h4>
+        <a href="https://instagram.com/graikyparis" target="_blank" rel="noopener">Instagram @graikyparis</a>
+        <a href="https://tiktok.com/@graiky" target="_blank" rel="noopener">TikTok @graiky</a>
+      </div>
+      <div class="footer__col">
+        <h4>Newsletter</h4>
+        <p>Recevez les nouveautés Graiky.</p>
+        <form class="footer__form" onsubmit="event.preventDefault();">
+          <input type="email" placeholder="Votre email" required />
+          <button type="submit">OK</button>
+        </form>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p>© 2026 GRAIKY · Tous droits réservés</p>
+      <p>Site démo — Bistrot Bastards</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
