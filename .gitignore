@@ -1,11 +1,3 @@
-# OS
-.DS_Store
-Thumbs.db
-
-# Sources brutes (lourdes, non utilisées par le site)
 assets/menu/GRAIKY_PHOTOS/
 assets/menu/Menu-1.pdf
-
-# Garder seulement les photos optimisées :
-# - assets/photos/        (versions web compressées)
-# - assets/menu/graiky_photo_uber_eat/  (vignettes menu Uber)
+.DS_Store
