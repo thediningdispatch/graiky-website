@@ -3,12 +3,84 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>GRAIKY — Sandwicherie africaine · Paris 12</title>
-  <meta name="description" content="GRAIKY, sandwicherie africaine au 12 rue de Madagascar, Paris 12. Sandwichs kebab, bowls attiéké, allocos, bissap et dégué maison." />
+
+  <title>GRAIKY — Sandwicherie afro à Paris 12 · Sandwichs, bowls, alloco</title>
+  <meta name="description" content="GRAIKY, sandwicherie afro au 12 rue de Madagascar à Paris 12. Sandwichs kebab, bowls attiéké, alloco, bissap et dégué maison. Sur place, à emporter, livraison Uber Eats &amp; Deliveroo." />
+  <meta name="keywords" content="graiky, sandwicherie africaine paris, sandwich afro paris 12, kebab paris 12, bowl attiéké, alloco paris, bissap, dégué, restaurant africain paris 12e, rue de madagascar" />
+  <meta name="author" content="GRAIKY" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://graiky.netlify.app/" />
+
+  <!-- Open Graph (Facebook, Instagram, LinkedIn) -->
+  <meta property="og:type" content="restaurant" />
+  <meta property="og:site_name" content="GRAIKY" />
+  <meta property="og:title" content="GRAIKY — Sandwicherie afro à Paris 12" />
+  <meta property="og:description" content="Sandwichs, bowls et fits salads à l'africaine. Alloco, bissap, dégué maison. 12 rue de Madagascar, Paris 12." />
+  <meta property="og:image" content="https://graiky.netlify.app/assets/photos/hero.jpg" />
+  <meta property="og:url" content="https://graiky.netlify.app/" />
+  <meta property="og:locale" content="fr_FR" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="GRAIKY — Sandwicherie afro à Paris 12" />
+  <meta name="twitter:description" content="Sandwichs, bowls et fits salads à l'africaine. Alloco, bissap, dégué maison." />
+  <meta name="twitter:image" content="https://graiky.netlify.app/assets/photos/hero.jpg" />
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
+
+  <!-- Schema.org : restaurant (JSON-LD pour Google) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Restaurant",
+    "@id": "https://graiky.netlify.app/#restaurant",
+    "name": "GRAIKY",
+    "alternateName": "Graiky Paris",
+    "description": "Sandwicherie afro à Paris 12. Sandwichs kebab, bowls attiéké, alloco, bissap et dégué maison. Halal.",
+    "url": "https://graiky.netlify.app/",
+    "image": [
+      "https://graiky.netlify.app/assets/photos/hero.jpg",
+      "https://graiky.netlify.app/assets/photos/bko.jpg",
+      "https://graiky.netlify.app/assets/photos/concept.jpg"
+    ],
+    "telephone": "+33983771739",
+    "priceRange": "€",
+    "servesCuisine": ["West African", "African", "Sandwich", "Halal"],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "12 rue de Madagascar",
+      "addressLocality": "Paris",
+      "postalCode": "75012",
+      "addressCountry": "FR"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 48.8456,
+      "longitude": 2.3776
+    },
+    "openingHoursSpecification": [
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Sunday",    "opens": "12:30", "closes": "15:30" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Sunday",    "opens": "18:00", "closes": "21:30" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Monday",    "opens": "12:00", "closes": "15:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": "Monday",    "opens": "19:00", "closes": "21:30" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday","Wednesday","Thursday"], "opens": "12:00", "closes": "15:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Tuesday","Wednesday","Thursday"], "opens": "19:00", "closes": "21:30" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday","Saturday"], "opens": "12:00", "closes": "15:00" },
+      { "@type": "OpeningHoursSpecification", "dayOfWeek": ["Friday","Saturday"], "opens": "19:00", "closes": "22:30" }
+    ],
+    "acceptsReservations": "False",
+    "hasMenu": "https://graiky.netlify.app/#menu",
+    "sameAs": [
+      "https://www.instagram.com/graikyparis/",
+      "https://www.tiktok.com/@graiky",
+      "https://www.ubereats.com/fr/store/graiky/qlCN6XRcXKGaQZCmyHrV-g",
+      "https://deliveroo.fr/fr/menu/paris/Montgallet/graiky"
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -25,6 +97,7 @@
         <a href="#concept">Concept</a>
         <a href="#menu">Menu</a>
         <a href="#commander">Commander</a>
+        <a href="blog/">Journal</a>
         <a href="#restos">Restaurants</a>
       </nav>
       <button class="nav__burger" aria-label="Menu" id="burger">
@@ -573,14 +646,14 @@
   <section class="press">
     <div class="press__inner">
       <p class="section__eyebrow">/ ON EN PARLE</p>
-      <h2 class="section__title">Vu &amp; approuvé</h2>
+      <h2 class="section__title">Vu &amp; <em>approuvé</em></h2>
+      <p class="press__rating">4,9/5 sur Google · <strong>481 avis</strong> · 11K abonnés Instagram</p>
       <div class="press__logos">
-        <!-- TODO: remplacer par vrais logos presse -->
-        <span class="press__logo">LE FOODING</span>
-        <span class="press__logo">TIME OUT</span>
-        <span class="press__logo">PARIS BOUFFE</span>
-        <span class="press__logo">VICE FOOD</span>
-        <span class="press__logo">FRANCE 3</span>
+        <a href="https://www.timeout.fr/paris/restaurants/la-nouvelle-hype-des-cuisines-africaines" target="_blank" rel="noopener" class="press__logo">Time Out Paris</a>
+        <a href="https://www.tiktok.com/@leguideultime/video/7237113323932650778" target="_blank" rel="noopener" class="press__logo">Le Guide Ultime</a>
+        <a href="https://www.tiktok.com/@foodloversparis/video/7234564043602709786" target="_blank" rel="noopener" class="press__logo">Food Lovers Paris</a>
+        <a href="https://mapstr.com/place/0N5qB3V1BB/graiky-paris-restaurant-kebab-africain-street_food-sandwich" target="_blank" rel="noopener" class="press__logo">Mapstr</a>
+        <a href="https://restaurantguru.com/Graiky-Paris" target="_blank" rel="noopener" class="press__logo">Restaurant Guru</a>
       </div>
     </div>
   </section>
