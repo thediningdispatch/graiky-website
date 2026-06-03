@@ -42,7 +42,7 @@
   }
 
   // ----- Reveal on scroll -----
-  const reveals = document.querySelectorAll('.concept, .hero-product, .menu, .breads, .press, .ig, .restos');
+  const reveals = document.querySelectorAll('.concept, .hero-product, .menu, .cta-grid, .press, .ig, .restos');
   reveals.forEach(el => el.classList.add('reveal'));
   const io = new IntersectionObserver((entries) => {
     entries.forEach(e => {

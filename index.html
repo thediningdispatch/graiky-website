@@ -7,7 +7,7 @@
   <meta name="description" content="GRAIKY, sandwicherie africaine au 12 rue de Madagascar, Paris 12. Sandwichs kebab, bowls attiéké, allocos, bissap et dégué maison." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -24,8 +24,8 @@
         <a href="#hero">Home</a>
         <a href="#concept">Concept</a>
         <a href="#menu">Menu</a>
+        <a href="#commander">Commander</a>
         <a href="#restos">Restaurants</a>
-        <a href="#contact">Contact</a>
       </nav>
       <button class="nav__burger" aria-label="Menu" id="burger">
         <span></span><span></span><span></span>
@@ -66,20 +66,8 @@
       </div>
       <div class="concept__visual">
         <!-- TODO: remplacer par photo signature Graiky -->
-        <div class="concept__photo" style="background-image: url('https://images.unsplash.com/photo-1561651823-34feb02250e4?w=1200&q=80')"></div>
+        <div class="concept__photo" style="background-image: url('assets/photos/concept.jpg')"></div>
       </div>
-    </div>
-  </section>
-
-  <!-- ============ MARQUEE TYPO ============ -->
-  <section class="marquee" aria-hidden="true">
-    <div class="marquee__track">
-      <span>KEBAB</span><span>·</span>
-      <span>KEBAB</span><span>·</span>
-      <span>KEBAB</span><span>·</span>
-      <span>KEBAB</span><span>·</span>
-      <span>KEBAB</span><span>·</span>
-      <span>KEBAB</span><span>·</span>
     </div>
   </section>
 
@@ -88,7 +76,7 @@
     <div class="hero-product__inner">
       <div class="hero-product__image">
         <!-- TODO: photo signature du mois -->
-        <img src="https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=1000&q=80" alt="Création du moment" />
+        <img src="assets/photos/bko.jpg" alt="Sandwich BKO — Graiky" />
       </div>
       <div class="hero-product__text">
         <p class="section__eyebrow">/ SIGNATURE MAISON</p>
@@ -107,166 +95,477 @@
     <div class="menu__header">
       <p class="section__eyebrow">/ NOTRE CARTE</p>
       <h2 class="section__title">MENU</h2>
+      <p class="menu__intro">Sandwicherie afro · Paris 12. Tous nos plats sont préparés maison.</p>
     </div>
 
     <div class="menu__tabs">
-      <button class="menu__tab is-active" data-tab="kebabs">Sandwichs</button>
+      <button class="menu__tab is-active" data-tab="sandwichs">Sandwichs</button>
       <button class="menu__tab" data-tab="bowls">Bowls</button>
-      <button class="menu__tab" data-tab="enfant">Dips</button>
-      <button class="menu__tab" data-tab="extra">Extras &amp; Pastels</button>
-      <button class="menu__tab" data-tab="desserts">Boissons &amp; Dégué</button>
+      <button class="menu__tab" data-tab="salads">Fits Salads</button>
+      <button class="menu__tab" data-tab="dips">Dips</button>
+      <button class="menu__tab" data-tab="extras">Extras</button>
+      <button class="menu__tab" data-tab="sauces">Sauces</button>
+      <button class="menu__tab" data-tab="douceurs">Douceurs</button>
+      <button class="menu__tab" data-tab="boissons">Boissons</button>
     </div>
 
     <!-- SANDWICHS -->
-    <div class="menu__panel is-active" data-panel="kebabs">
-      <div class="menu__grid">
+    <div class="menu__panel is-active" data-panel="sandwichs">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Sandwichs</h3>
+        <p class="menu__cat-sub">+2€ frites de patate douce sur les formules</p>
+      </div>
+      <div class="menu__price-legend"><span>Seul</span><span>Menu <em>+ frites + boisson</em></span></div>
+      <div class="menu__list">
 
-        <article class="card">
-          <span class="card__badge card__badge--signature">SIGNATURE</span>
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">SANDWICH BKO</h3>
-            <p class="card__desc">Viande grillée, allocos, sauce maison, crudités. L'original Graiky.</p>
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Graiky</h4>
+            </div>
+            <p class="item__desc">Poulet mariné, salade, tomates, oignons, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">8,5 €</span><span class="item__price item__price--menu">9,9 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_13.jpg')"></div>
         </article>
 
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">GRAIKY FUN</h3>
-            <p class="card__desc">Notre sandwich gourmand généreux, sauces &amp; toppings maison.</p>
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Graiky Fun</h4>
+            </div>
+            <p class="item__desc">Poulet mariné, salade, tomates, oignons, légumes grillés, feta, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">9,5 €</span><span class="item__price item__price--menu">12 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_15.jpg')"></div>
         </article>
 
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">SANDWICH CLASSIC</h3>
-            <p class="card__desc">Kebab grillé, sauce blanche maison, salade, tomates, oignons.</p>
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">BKO</h4>
+              <span class="item__badge item__badge--signature">Signature</span>
+            </div>
+            <p class="item__desc">Poulet mariné, salade, tomates, oignons, alloco, oignons frits, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">10 €</span><span class="item__price item__price--menu">13 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_14.jpg')"></div>
         </article>
 
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1633321702518-7feccafb94d5?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">SANDWICH VEGGIE</h3>
-            <p class="card__desc">Option végétarienne, sauce maison, crudités, allocos en option.</p>
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Graiky Veggie</h4>
+              <span class="item__badge item__badge--veggie">Veggie</span>
+            </div>
+            <p class="item__desc">Falafel (patate douce, maïs), salade, tomates, oignons, alloco, légumes grillés, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">9,5 €</span><span class="item__price item__price--menu">10,9 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_25.jpg')"></div>
         </article>
 
       </div>
-      <p class="menu__note">À compléter avec le menu PDF fourni par le client — disponible sur graiky.eatbu.com.</p>
     </div>
 
     <!-- BOWLS -->
     <div class="menu__panel" data-panel="bowls">
-      <div class="menu__grid">
-        <article class="card">
-          <span class="card__badge card__badge--signature">SIGNATURE</span>
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">BOWL BKO</h3>
-            <p class="card__desc">Base attiéké, viande grillée, allocos, sauce maison, crudités.</p>
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Bowls</h3>
+        <p class="menu__cat-sub">Supplément pain : +1 €</p>
+      </div>
+      <div class="menu__price-legend"><span>Seul</span><span>Menu <em>+ boisson</em></span></div>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">La Base</h4>
+            <p class="item__desc">Base du moment, salade, tomates, oignons, poulet mariné, légumes grillés.</p>
+            <div class="item__prices"><span class="item__price">13 €</span><span class="item__price item__price--menu">14,5 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_24.jpg')"></div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">BOWL ATTIÉKÉ</h3>
-            <p class="card__desc">Base attiéké, viande grillée, salade, sauce maison.</p>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Fun</h4>
+            <p class="item__desc">Base du moment, salade, tomates, oignons, poulet mariné, légumes grillés, feta.</p>
+            <div class="item__prices"><span class="item__price">14 €</span><span class="item__price item__price--menu">15,5 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_27.jpg')"></div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">BOWL SALADE</h3>
-            <p class="card__desc">Base salade, viande grillée, allocos, crudités, sauce maison.</p>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">BKO</h4>
+              <span class="item__badge item__badge--signature">Signature</span>
+            </div>
+            <p class="item__desc">Base du moment, salade, tomates, oignons, poulet mariné, alloco, légumes grillés, oignons frits, mangue.</p>
+            <div class="item__prices"><span class="item__price">15 €</span><span class="item__price item__price--menu">16,5 €</span></div>
           </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_22.jpg')"></div>
         </article>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Veggie</h4>
+              <span class="item__badge item__badge--veggie">Veggie</span>
+            </div>
+            <p class="item__desc">Base du moment, salade, tomates, oignons, alloco, falafel (patate douce, maïs), légumes grillés.</p>
+            <div class="item__prices"><span class="item__price">13,5 €</span><span class="item__price item__price--menu">15 €</span></div>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_26.jpg')"></div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- FITS SALADS -->
+    <div class="menu__panel" data-panel="salads">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Fits Salads</h3>
+        <p class="menu__cat-sub">Étudiants : -1 € sur tous les menus</p>
+      </div>
+      <div class="menu__price-legend"><span>Seul</span><span>Menu <em>+ boisson</em></span></div>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">1er Janvier</h4>
+            <p class="item__desc">Salade, tomates, oignons, poulet mariné, concombre, feta, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">12 €</span><span class="item__price item__price--menu">13,5 €</span></div>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_20.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Fun</h4>
+            <p class="item__desc">Salade, tomates, oignons, poulet mariné, légumes grillés, concombre, feta, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">13 €</span><span class="item__price item__price--menu">14,5 €</span></div>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_20.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">BKO</h4>
+            <p class="item__desc">Salade, tomates, oignons, poulet mariné, alloco, concombre, oignons frits, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">14 €</span><span class="item__price item__price--menu">15,5 €</span></div>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_28.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Veggie</h4>
+              <span class="item__badge item__badge--veggie">Veggie</span>
+            </div>
+            <p class="item__desc">Salade, tomates, oignons, falafel (patate douce, maïs), légumes grillés, concombre, sauce au choix.</p>
+            <div class="item__prices"><span class="item__price">13 €</span><span class="item__price item__price--menu">14,5 €</span></div>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_28.jpg')"></div>
+        </article>
+
       </div>
     </div>
 
     <!-- DIPS -->
-    <div class="menu__panel" data-panel="enfant">
-      <div class="menu__grid">
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1626082896492-766af4eb6501?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">DIPS MAISON</h3>
-            <p class="card__desc">Sélection de sauces maison à tremper. Goûts au choix.</p>
-          </div>
-        </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1562967914-608f82629710?w=800&q=80')"></div>
-          <div class="card__body">
-            <h3 class="card__name">DIPS BOX</h3>
-            <p class="card__desc">Plateau de plusieurs dips à partager.</p>
-          </div>
-        </article>
+    <div class="menu__panel" data-panel="dips">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Dips</h3>
+        <p class="menu__cat-sub">Pour grignoter ou partager</p>
       </div>
-      <p class="menu__note">Catégorie à préciser avec le menu PDF du client.</p>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Pastel Thon (x4)</h4>
+            <p class="item__desc">Chaussons de pâte dorée fourrés au thon, sauce tomate épicée.</p>
+            <p class="item__price">5,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_21.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Falafel pm</h4>
+              <span class="item__badge item__badge--veggie">Veggie</span>
+            </div>
+            <p class="item__desc">Falafels patate douce / maïs maison.</p>
+            <p class="item__price">5 €</p>
+          </div>
+          <div class="item__thumb"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Alloco</h4>
+              <span class="item__badge item__badge--signature">Star</span>
+            </div>
+            <p class="item__desc">Bananes plantains frites, fondantes dedans, légèrement caramélisées dehors.</p>
+            <p class="item__price">4,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_19.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Frites de Patate Douce</h4>
+            <p class="item__desc">Bâtonnets de patate douce, façon frites.</p>
+            <p class="item__price">4,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_16.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Frites</h4>
+            <p class="item__desc">Frites maison dorées, légèrement salées.</p>
+            <p class="item__price">3,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_23.jpg')"></div>
+        </article>
+
+      </div>
     </div>
 
-    <!-- EXTRAS & PASTELS -->
-    <div class="menu__panel" data-panel="extra">
-      <div class="menu__grid">
-        <article class="card">
-          <span class="card__badge card__badge--new">À TESTER</span>
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">PASTELS</h3><p class="card__desc">Beignets fourrés à la viande ou au poisson. Snack typiquement ouest-africain.</p></div>
+    <!-- EXTRAS -->
+    <div class="menu__panel" data-panel="extras">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Extras</h3>
+        <p class="menu__cat-sub">À ajouter à votre sandwich, bowl ou salade</p>
+      </div>
+      <div class="menu__list menu__list--compact">
+
+        <article class="item item--mini">
+          <div class="item__info">
+            <h4 class="item__name">Supplément viande</h4>
+            <p class="item__price">3 €</p>
+          </div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">FRITES MAISON</h3><p class="card__desc">Frites fraîches, sauces maison.</p></div>
+
+        <article class="item item--mini">
+          <div class="item__info">
+            <h4 class="item__name">Cheddar</h4>
+            <p class="item__price">1,5 €</p>
+          </div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1527477396000-e27163b481c2?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">ALLOCOS</h3><p class="card__desc">Bananes plantains frites, croustillantes dehors, fondantes dedans.</p></div>
+
+        <article class="item item--mini">
+          <div class="item__info">
+            <h4 class="item__name">Feta</h4>
+            <p class="item__price">1,5 €</p>
+          </div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1608039829572-78524f79c4c7?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">WINGS</h3><p class="card__desc">Ailes de poulet marinées.</p></div>
+
+        <article class="item item--mini">
+          <div class="item__info">
+            <h4 class="item__name">Oignons frits</h4>
+            <p class="item__price">0,5 €</p>
+          </div>
         </article>
+
       </div>
     </div>
 
-    <!-- BOISSONS & DÉGUÉ -->
-    <div class="menu__panel" data-panel="desserts">
-      <div class="menu__grid">
-        <article class="card">
-          <span class="card__badge card__badge--signature">SIGNATURE</span>
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">BISSAP MAISON</h3><p class="card__desc">Infusion d'hibiscus, frais et désaltérant.</p></div>
+    <!-- SAUCES -->
+    <div class="menu__panel" data-panel="sauces">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Sauces 100% maison</h3>
+        <p class="menu__cat-sub">Sauce supplémentaire : +1 €</p>
+      </div>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Fromage frais aux herbes</h4>
+            <p class="item__desc">Crémeuse, fraîche, herbes ciselées.</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_30.jpg')"></div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1437418747212-8d9709afab22?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">JUS DE GINGEMBRE</h3><p class="card__desc">Recette maison, gingembre frais et citron. Ça réveille.</p></div>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Yassa</h4>
+              <span class="item__badge item__badge--top">Populaire</span>
+            </div>
+            <p class="item__desc">Oignons confits, citron, moutarde. Le classique sénégalais.</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_32.jpg')"></div>
         </article>
-        <article class="card">
-          <span class="card__badge card__badge--signature">SIGNATURE</span>
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1599785209707-a456fc1337bb?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">DÉGUÉ / THIAKRY</h3><p class="card__desc">Mil, yaourt, vanille, fruits frais. Le dessert qui finit tout.</p></div>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Tomate origan</h4>
+            <p class="item__desc">Tomate, origan, huile d'olive.</p>
+          </div>
+          <div class="item__thumb"></div>
         </article>
-        <article class="card">
-          <div class="card__img" style="background-image: url('https://images.unsplash.com/photo-1551024506-0bccd828d307?w=800&q=80')"></div>
-          <div class="card__body"><h3 class="card__name">SOFTS</h3><p class="card__desc">Sélection de softs et boissons fraîches.</p></div>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Pesto vert</h4>
+            <p class="item__desc">Basilic, ail, pignons, parmesan.</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_29.jpg')"></div>
         </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Piment de la mama</h4>
+            <p class="item__desc">Piment frais, recette familiale. Pour les courageux.</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_31.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Vinaigrette mangue citron vert</h4>
+            <p class="item__desc">Mangue, citron vert, touche sucrée-acidulée.</p>
+          </div>
+          <div class="item__thumb"></div>
+        </article>
+
       </div>
     </div>
+
+    <!-- DOUCEURS -->
+    <div class="menu__panel" data-panel="douceurs">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Douceurs</h3>
+        <p class="menu__cat-sub">Pour finir comme il faut</p>
+      </div>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Dégué</h4>
+              <span class="item__badge item__badge--signature">Signature</span>
+            </div>
+            <p class="item__desc">Mil, yaourt, vanille. Le dessert ouest-africain qui finit tout.</p>
+            <p class="item__price">4 €</p>
+          </div>
+          <div class="item__thumb"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Douceur de la semaine</h4>
+            <p class="item__desc">La création maison du moment. Demandez-nous.</p>
+            <p class="item__price">3,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_34.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Floup</h4>
+            <p class="item__desc">La glace africaine à la coco.</p>
+            <p class="item__price">2 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_33.jpg')"></div>
+        </article>
+
+      </div>
+    </div>
+
+    <!-- BOISSONS -->
+    <div class="menu__panel" data-panel="boissons">
+      <div class="menu__cat-head">
+        <h3 class="menu__cat-title">Boissons</h3>
+        <p class="menu__cat-sub">Jus maison, eaux et sodas</p>
+      </div>
+      <div class="menu__list">
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Bissap</h4>
+              <span class="item__badge item__badge--signature">Maison</span>
+            </div>
+            <p class="item__desc">Infusion d'hibiscus, fraîche et désaltérante.</p>
+            <p class="item__price">3,5 €</p>
+          </div>
+          <div class="item__thumb"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <div class="item__head">
+              <h4 class="item__name">Ginger</h4>
+              <span class="item__badge item__badge--signature">Maison</span>
+            </div>
+            <p class="item__desc">Jus de gingembre frais, citron. Ça réveille.</p>
+            <p class="item__price">3,5 €</p>
+          </div>
+          <div class="item__thumb"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Eau ou Soda</h4>
+            <p class="item__desc">Plate, gazeuse ou soft au choix.</p>
+            <p class="item__price">2 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_38.jpg')"></div>
+        </article>
+
+        <article class="item">
+          <div class="item__info">
+            <h4 class="item__name">Boisson du moment</h4>
+            <p class="item__desc">La sélection du moment.</p>
+            <p class="item__price">3,5 €</p>
+          </div>
+          <div class="item__thumb" style="background-image: url('assets/menu/graiky_photo_uber_eat/graiky_39.jpg')"></div>
+        </article>
+
+      </div>
+    </div>
+
+    <p class="menu__note">Carte susceptible d'évoluer. Pour commander en livraison, retrouvez-nous sur Uber Eats.</p>
   </section>
 
-  <!-- ============ BASES / FONDAMENTAUX ============ -->
-  <section class="breads">
-    <div class="breads__header">
-      <p class="section__eyebrow">/ NOS FONDAMENTAUX</p>
-      <h2 class="section__title">Maison,<br/>du début à la fin.</h2>
-      <p class="breads__sub">Allocos, attiéké, bissap, dégué : les bases d'une vraie sandwicherie ouest-africaine.</p>
-    </div>
-    <div class="breads__grid">
-      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1612200143444-9f17a26c0c5e?w=800&q=80')"></div><p>Allocos</p></div>
-      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&q=80')"></div><p>Attiéké</p></div>
-      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80')"></div><p>Bissap</p></div>
-      <div class="bread"><div class="bread__img" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&q=80')"></div><p>Dégué</p></div>
+  <!-- ============ COMMANDER & SUIVRE ============ -->
+  <section class="cta-grid" id="commander">
+    <div class="cta-grid__inner">
+      <div class="cta-grid__header">
+        <p class="section__eyebrow">/ COMMANDER &amp; SUIVRE</p>
+        <h2 class="section__title">À table,<br/>chez vous, partout.</h2>
+        <p class="cta-grid__sub">Commandez en livraison ou retrouvez-nous sur les réseaux.</p>
+      </div>
+
+      <div class="cta-grid__cards">
+        <a href="https://www.ubereats.com/fr/store/graiky/qlCN6XRcXKGaQZCmyHrV-g?diningMode=DELIVERY" target="_blank" rel="noopener" class="cta-card cta-card--uber">
+          <span class="cta-card__label">Livraison</span>
+          <span class="cta-card__title">Uber Eats</span>
+          <span class="cta-card__arrow">→</span>
+        </a>
+
+        <a href="https://deliveroo.fr/fr/menu/paris/Montgallet/graiky" target="_blank" rel="noopener" class="cta-card cta-card--deliveroo">
+          <span class="cta-card__label">Livraison</span>
+          <span class="cta-card__title">Deliveroo</span>
+          <span class="cta-card__arrow">→</span>
+        </a>
+
+        <a href="https://www.instagram.com/graikyparis/" target="_blank" rel="noopener" class="cta-card cta-card--ig">
+          <span class="cta-card__label">@graikyparis</span>
+          <span class="cta-card__title">Instagram</span>
+          <span class="cta-card__arrow">→</span>
+        </a>
+
+        <a href="https://www.tiktok.com/@graiky" target="_blank" rel="noopener" class="cta-card cta-card--tiktok">
+          <span class="cta-card__label">@graiky</span>
+          <span class="cta-card__title">TikTok</span>
+          <span class="cta-card__arrow">→</span>
+        </a>
+      </div>
     </div>
   </section>
 
@@ -294,14 +593,14 @@
       <p class="ig__followers">Suivez-nous sur Instagram &amp; TikTok</p>
     </div>
     <div class="ig__grid">
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1561758033-d89a9ad46330?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1626700051175-6818013e1d4f?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1633321702518-7feccafb94d5?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1606755962773-d324e2dabd91?w=600&q=80')"></a>
-      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('https://images.unsplash.com/photo-1561651823-34feb02250e4?w=600&q=80')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-1.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-2.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-3.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-4.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-5.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-6.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-7.jpg')"></a>
+      <a href="https://instagram.com/graikyparis" class="ig__item" style="background-image: url('assets/photos/ig-8.jpg')"></a>
     </div>
   </section>
 

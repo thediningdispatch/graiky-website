@@ -1,0 +1,240 @@
+================================================================================
+                      IMAGE EXTRACTOR - DOWNLOAD REPORT
+================================================================================
+Page URL:   https://www.ubereats.com/fr/store/graiky/qlCN6XRcXKGaQZCmyHrV-g?diningMode=DELIVERY
+Base Name:  graiky
+Started:    2026-06-03 10:16
+Completed:  2026-06-03 10:16
+
+================================================================================
+                                 SUMMARY
+================================================================================
+Total Selected:     55
+Downloaded:         55
+
+================================================================================
+                     DOWNLOADED FILES - FILENAME → URL
+================================================================================
+graiky_01.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/19ec62ba51fde35ba0aff5b84321c5af.jpeg
+
+graiky_02.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/c67d558c633281f9c71fc6a90ef470ae.jpeg
+
+graiky_03.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/8681e511c0910e0052cb155c50f01f89.jpeg
+
+graiky_04.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/6ea4f72e303000fbf403bbb36f971f85.jpeg
+
+graiky_05.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/4bee0baf259f2b3c95aacdebea87e950.jpeg
+
+graiky_06.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/5283d81c664b43c5f57a3a186d273063.jpeg
+
+graiky_07.jpeg
+  → https://tb-static.uber.com/prod/image-proc/processed_images/dc15e01c57f0c540c9c48ec233ca2f00/70aa2a4db7f990373ca9c376323e3dea.jpeg
+
+graiky_08.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/storefront_promo_cards/savings_card_icons/eats_new/dealsBackground-happy_red.png
+
+graiky_09.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/storefront_promo_cards/savings_card_icons/eats_new/transparentTrailingImage.png
+
+graiky_10.png
+  → https://www.ubereats.com/_static/df47c8284add9f40.png
+
+graiky_11.jpg
+  → https://t.co/1/i/adsct?bci=4&dv=Europe%2FParis%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%261800%261169%2610%2630%261700%261130%260%26na&eci=4&event=%7B%22contents%22%3A%5B%5D%2C%22conversion_id%22%3A%22aa4cf3f10746c4acf8d9b858125384ce%22%7D&event_id=d22dc6f1-16e3-4156-a079-e66ef90fc1fd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e53b1ce9-41ab-4679-b52b-aecdf48ce719&pt=Livraison%20du%20menu%20Graiky%20%F0%9F%A5%99%20%C3%A0%20Paris%20-%20%E3%80%90Menu%20et%20prix%E3%80%91%20%7C%20Uber%20Eats&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Ffr%2Fstore%2Fgraiky%2FqlCN6XRcXKGaQZCmyHrV-g%3FdiningMode%3DDELIVERY%26mod%3DquickView%26modctx%3D%25257B%252522storeUuid%252522%25253A%252522aa508de9-745c-5ca1-9a41-90a6c87ad5fa%252522%25252C%252522sectionUuid%252522%25253A%252522385e8bf3-9e74-4fb1-ad14-e1bd8aa636a4%252522%25252C%252522subsectionUuid%252522%25253A%2525220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%252522%25252C%252522itemUuid%252522%25253A%2525222d815e61-c197-4fad-ac40-14cb812b552d%252522%25252C%252522showSeeDetailsCTA%252522%25253Atrue%25257D%26ps%3D1&tw_iframe_status=0&tw_pid_src=2&twpid=tw.1772903742673.269955503660481266&txn_id=tw-o43i6-oc3wp&type=javascript&version=2.3.53
+
+graiky_12.jpg
+  → https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Wed%2C%2003%20Jun%202026%2010%3A15%3A57%20GMT&n=-2d&b=Livraison%20du%20menu%20Graiky%20%F0%9F%A5%99%20%C3%A0%20Paris%C2%A0-%20%E3%80%90Menu%C2%A0et%C2%A0prix%E3%80%91%C2%A0%7C%20Uber%C2%A0Eats&.yp=10001384&f=https%3A%2F%2Fwww.ubereats.com%2Ffr%2Fstore%2Fgraiky%2FqlCN6XRcXKGaQZCmyHrV-g%3FdiningMode%3DDELIVERY%26mod%3DquickView%26modctx%3D%25257B%252522storeUuid%252522%25253A%252522aa508de9-745c-5ca1-9a41-90a6c87ad5fa%252522%25252C%252522sectionUuid%252522%25253A%252522385e8bf3-9e74-4fb1-ad14-e1bd8aa636a4%252522%25252C%252522subsectionUuid%252522%25253A%2525220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%252522%25252C%252522itemUuid%252522%25253A%2525222d815e61-c197-4fad-ac40-14cb812b552d%252522%25252C%252522showSeeDetailsCTA%252522%25253Atrue%25257D%26ps%3D1&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.16.6&et=custom&ec=restaurant_eats&ea=view&el=menu%7Crestaurant-id%3Aaa508de9-745c-5ca1-9a41-90a6c87ad5fa&tagmgr=gtm
+
+graiky_13.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOTFiNjdmYTZjMWRmZDJhMGQ1YmE1Y2ExMjk4ZjBlMDcvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_14.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTk5Yjc2YmE0MDNiZTIxYjk1MjlkMDdmZjg1ODUxOTAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_15.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvN2ZiNzMwYTEwYjI5MjRhYTIwNGU5MjliYzFmYjYzMjgvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_16.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMGMxMmJkN2Q0NTFmYWEyMmI0MGIyZjk0MzU0MDdkMTIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_17.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDc1MTU1Y2VkYjljYTJhNzIyYTE1NmUzNDk1MzRiZWQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_18.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMmZiYjlhZDEzYzA2MDhjNDBkODk3NzYxNTcyZWY3MGIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_19.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZWY3MDY1YTY1NzQ3OWZjMzk2MjQ5MGI4ZTg5ODM3OWMvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_20.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ4ZjNiMWE3YmQxMGFlOWRkMzNkNGNkMjRiNzE1MWEvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_21.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMmZjZTUwMDRhNTYxNGU5MmQ5ZTA4NTQ2Njk3MmMyZmQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_22.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFlNDM4NDA5NTkwYmUzOTVlZDhjMmZmMDllYjJiZDAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_23.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNGNmNzk1NDU1ZmU4MWJlYjRiYzQxYTIwZmM4N2VmMzkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_24.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMTBkNDM3ZjEwZTlkZmI2ZmJiZTg5OTBmNjJhZDk2MTQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_25.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFiYmE0ZTc2MThjYjE5ODE1ZjU2ZTgxMWZiZDk3MGIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_26.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMWFmYWY2MGVhMDUyNDkwZDQyNjg2MmRmNWEzNjVmODYvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_27.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYzlhM2NkMTNhY2JjMzEyMDJkZWExM2M3NWJhYWY5MWYvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_28.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZTU5YTJhODc4YzcxNmM2OGNkZDU1NTc3YWYyZTA4YjcvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_29.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNWMyODljMmMwNzMwNmJhMjRkMDI5ZDM2OWJjMjdmMDIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_30.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWFmYmRjZTcyZGVkN2FmOTdkYWZhODliNjMwMDYyMTkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_31.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTNhNmQ1YjJlYjExMjBkOTAxMjMwZTc0ZGI4Nzk1OTIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_32.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDk5NTg4NThmM2NmYWRhNDI4MDAwMTllNjhiYWU4ZDkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_33.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGMxNWUwMWM1N2YwYzU0MGM5YzQ4ZWMyMzNjYTJmMDAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_34.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZWI0M2FkNmUwZTMzMzRhNDZhODUxMGNjZDY3NmZmZTQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_35.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWRhMWMzMzA2ZGNiYzc0NTliMmFmMDBjNjM4Y2MzN2QvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_36.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDljZDQwYzNkMDMwYzViM2U5NjJhM2ZlMjNmODZjODAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_37.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ0YzRhYzY5OTg4YWVlNTJhYjA2NTIzYTA5MDI5MGEvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_38.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2Y0N2NmNmZlMjg5OTkyNzJiNGQyOGM2MDYwYTU3MTMvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_39.jpg
+  → https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOTA2NTI4NzlmNjlkNzE2MDFjNWQ5N2ZiZGRlMjRlNDQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+
+graiky_40.png
+  → https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Takeout@3x.png
+
+graiky_41.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Pizza.png
+
+graiky_42.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Sushi.png
+
+graiky_43.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Halal.png
+
+graiky_44.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Poke.png
+
+graiky_45.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Asian.png
+
+graiky_46.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Sandwich.png
+
+graiky_47.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/BubbleTea.png
+
+graiky_48.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Burgers.png
+
+graiky_49.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Thai.png
+
+graiky_50.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Kosher.png
+
+graiky_51.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Italian.png
+
+graiky_52.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Wings.png
+
+graiky_53.png
+  → https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png
+
+graiky_54.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Indian.png
+
+graiky_55.png
+  → https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/FastFood.png
+
+================================================================================
+                       COPY-PASTE URLS (DOWNLOADED)
+================================================================================
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/19ec62ba51fde35ba0aff5b84321c5af.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/c67d558c633281f9c71fc6a90ef470ae.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/8681e511c0910e0052cb155c50f01f89.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/6ea4f72e303000fbf403bbb36f971f85.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/4bee0baf259f2b3c95aacdebea87e950.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/1ec4613a2595139e2d14d917c9dd7388/5283d81c664b43c5f57a3a186d273063.jpeg
+https://tb-static.uber.com/prod/image-proc/processed_images/dc15e01c57f0c540c9c48ec233ca2f00/70aa2a4db7f990373ca9c376323e3dea.jpeg
+https://cn-geo1.uber.com/static/mobile-content/eats/storefront_promo_cards/savings_card_icons/eats_new/dealsBackground-happy_red.png
+https://cn-geo1.uber.com/static/mobile-content/eats/storefront_promo_cards/savings_card_icons/eats_new/transparentTrailingImage.png
+https://www.ubereats.com/_static/df47c8284add9f40.png
+https://t.co/1/i/adsct?bci=4&dv=Europe%2FParis%26fr-FR%2Cfr%2Cen-US%2Cen%26Google%20Inc.%26MacIntel%26127%261800%261169%2610%2630%261700%261130%260%26na&eci=4&event=%7B%22contents%22%3A%5B%5D%2C%22conversion_id%22%3A%22aa4cf3f10746c4acf8d9b858125384ce%22%7D&event_id=d22dc6f1-16e3-4156-a079-e66ef90fc1fd&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=e53b1ce9-41ab-4679-b52b-aecdf48ce719&pt=Livraison%20du%20menu%20Graiky%20%F0%9F%A5%99%20%C3%A0%20Paris%20-%20%E3%80%90Menu%20et%20prix%E3%80%91%20%7C%20Uber%20Eats&tw_document_href=https%3A%2F%2Fwww.ubereats.com%2Ffr%2Fstore%2Fgraiky%2FqlCN6XRcXKGaQZCmyHrV-g%3FdiningMode%3DDELIVERY%26mod%3DquickView%26modctx%3D%25257B%252522storeUuid%252522%25253A%252522aa508de9-745c-5ca1-9a41-90a6c87ad5fa%252522%25252C%252522sectionUuid%252522%25253A%252522385e8bf3-9e74-4fb1-ad14-e1bd8aa636a4%252522%25252C%252522subsectionUuid%252522%25253A%2525220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%252522%25252C%252522itemUuid%252522%25253A%2525222d815e61-c197-4fad-ac40-14cb812b552d%252522%25252C%252522showSeeDetailsCTA%252522%25253Atrue%25257D%26ps%3D1&tw_iframe_status=0&tw_pid_src=2&twpid=tw.1772903742673.269955503660481266&txn_id=tw-o43i6-oc3wp&type=javascript&version=2.3.53
+https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Wed%2C%2003%20Jun%202026%2010%3A15%3A57%20GMT&n=-2d&b=Livraison%20du%20menu%20Graiky%20%F0%9F%A5%99%20%C3%A0%20Paris%C2%A0-%20%E3%80%90Menu%C2%A0et%C2%A0prix%E3%80%91%C2%A0%7C%20Uber%C2%A0Eats&.yp=10001384&f=https%3A%2F%2Fwww.ubereats.com%2Ffr%2Fstore%2Fgraiky%2FqlCN6XRcXKGaQZCmyHrV-g%3FdiningMode%3DDELIVERY%26mod%3DquickView%26modctx%3D%25257B%252522storeUuid%252522%25253A%252522aa508de9-745c-5ca1-9a41-90a6c87ad5fa%252522%25252C%252522sectionUuid%252522%25253A%252522385e8bf3-9e74-4fb1-ad14-e1bd8aa636a4%252522%25252C%252522subsectionUuid%252522%25253A%2525220379a62a-1156-4ddb-a09a-7e1dc45d5dfb%252522%25252C%252522itemUuid%252522%25253A%2525222d815e61-c197-4fad-ac40-14cb812b552d%252522%25252C%252522showSeeDetailsCTA%252522%25253Atrue%25257D%26ps%3D1&e=https%3A%2F%2Fwww.google.com%2F&enc=UTF-8&yv=1.16.6&et=custom&ec=restaurant_eats&ea=view&el=menu%7Crestaurant-id%3Aaa508de9-745c-5ca1-9a41-90a6c87ad5fa&tagmgr=gtm
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOTFiNjdmYTZjMWRmZDJhMGQ1YmE1Y2ExMjk4ZjBlMDcvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTk5Yjc2YmE0MDNiZTIxYjk1MjlkMDdmZjg1ODUxOTAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvN2ZiNzMwYTEwYjI5MjRhYTIwNGU5MjliYzFmYjYzMjgvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMGMxMmJkN2Q0NTFmYWEyMmI0MGIyZjk0MzU0MDdkMTIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDc1MTU1Y2VkYjljYTJhNzIyYTE1NmUzNDk1MzRiZWQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMmZiYjlhZDEzYzA2MDhjNDBkODk3NzYxNTcyZWY3MGIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZWY3MDY1YTY1NzQ3OWZjMzk2MjQ5MGI4ZTg5ODM3OWMvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ4ZjNiMWE3YmQxMGFlOWRkMzNkNGNkMjRiNzE1MWEvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMmZjZTUwMDRhNTYxNGU5MmQ5ZTA4NTQ2Njk3MmMyZmQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFlNDM4NDA5NTkwYmUzOTVlZDhjMmZmMDllYjJiZDAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNGNmNzk1NDU1ZmU4MWJlYjRiYzQxYTIwZmM4N2VmMzkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMTBkNDM3ZjEwZTlkZmI2ZmJiZTg5OTBmNjJhZDk2MTQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZmFiYmE0ZTc2MThjYjE5ODE1ZjU2ZTgxMWZiZDk3MGIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvMWFmYWY2MGVhMDUyNDkwZDQyNjg2MmRmNWEzNjVmODYvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYzlhM2NkMTNhY2JjMzEyMDJkZWExM2M3NWJhYWY5MWYvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZTU5YTJhODc4YzcxNmM2OGNkZDU1NTc3YWYyZTA4YjcvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNWMyODljMmMwNzMwNmJhMjRkMDI5ZDM2OWJjMjdmMDIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWFmYmRjZTcyZGVkN2FmOTdkYWZhODliNjMwMDYyMTkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvYTNhNmQ1YjJlYjExMjBkOTAxMjMwZTc0ZGI4Nzk1OTIvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDk5NTg4NThmM2NmYWRhNDI4MDAwMTllNjhiYWU4ZDkvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGMxNWUwMWM1N2YwYzU0MGM5YzQ4ZWMyMzNjYTJmMDAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZWI0M2FkNmUwZTMzMzRhNDZhODUxMGNjZDY3NmZmZTQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOWRhMWMzMzA2ZGNiYzc0NTliMmFmMDBjNjM4Y2MzN2QvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvNDljZDQwYzNkMDMwYzViM2U5NjJhM2ZlMjNmODZjODAvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvZGQ0YzRhYzY5OTg4YWVlNTJhYjA2NTIzYTA5MDI5MGEvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvM2Y0N2NmNmZlMjg5OTkyNzJiNGQyOGM2MDYwYTU3MTMvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://cn-geo1.uber.com/image-proc/resize/eats/format=webp/width=550/height=440/quality=70/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC9pbWFnZS1wcm9jL3Byb2Nlc3NlZF9pbWFnZXMvOTA2NTI4NzlmNjlkNzE2MDFjNWQ5N2ZiZGRlMjRlNDQvNzBhYTJhNGRiN2Y5OTAzNzNjYTljMzc2MzIzZTNkZWEuanBlZw==
+https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Takeout@3x.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Pizza.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Sushi.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Halal.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Poke.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Asian.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Sandwich.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/BubbleTea.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Burgers.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Thai.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Kosher.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Italian.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Wings.png
+https://duyt4h9nfnj50.cloudfront.net/new_search_home_eats_icon/Placeholder_Plates@3x.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/Indian.png
+https://cn-geo1.uber.com/static/mobile-content/eats/cuisine-filters/FastFood.png
